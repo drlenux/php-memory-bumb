@@ -1,0 +1,9 @@
+{
+    "name": "drlenux/memory-bumb",
+    "type": "project",
+    "require": {
+        "drlenux/large-array": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
