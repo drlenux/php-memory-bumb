@@ -10,7 +10,7 @@ function generateRandomString($length = 10) {
 
 $arr = new LargeArray();
 $length = 1000000000;
-$str = generateRandomString(1000000);
+$str = generateRandomString(10000000);
 
 for ($i = 0; $i < $length; $i++) {
 	$arr[] = $str;
